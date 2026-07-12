@@ -135,16 +135,6 @@ Start the Flask API:
 ```bash
 python app.py
 ```
-
-The API will be available at **http://localhost:5000**
-
-Test it:
-
-```bash
-curl http://localhost:5000/api/health
-# {"status": "ok", "service": "Student Placement Analytics API"}
-```
-
 ---
 
 ### 4. Frontend setup
@@ -156,21 +146,6 @@ cd frontend
 npm install
 npm start
 ```
-
-The React app will open at **http://localhost:3000**
-
-> The `"proxy": "http://localhost:5000"` in `package.json` forwards all `/api/*`
-> calls to Flask automatically during development.
-
----
-
-## Login Credentials
-
-| Role | Username | Password |
-|---|---|---|
-| Admin | `admin` | `admin123` |
-
----
 
 ## Pages & Features
 
@@ -213,7 +188,7 @@ The React app will open at **http://localhost:3000**
 
 ### Auth
 ```
-POST /api/auth/login         { "username": "admin", "password": "admin123" }
+POST /api/auth/login         
 POST /api/auth/logout
 GET  /api/auth/me
 ```
