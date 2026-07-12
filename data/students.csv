@@ -1,0 +1,101 @@
+id,name,gender,department,cgpa,backlogs,internship,projects,skills,company,package_lpa,placement_month,placement_year
+1,Aarav Sharma,Male,CSE,9.1,0,Yes,4,"Python,Java,SQL,React",Infosys,8.5,July,2024
+2,Priya Mehta,Female,CSE,8.7,0,Yes,3,"Python,ML,TensorFlow,SQL",TCS,7.2,August,2024
+3,Rohit Verma,Male,IT,7.5,1,No,2,"Java,Spring Boot,MySQL",Wipro,5.0,September,2024
+4,Sneha Patel,Female,ECE,8.2,0,Yes,3,"Embedded C,Python,MATLAB",Accenture,6.5,July,2024
+5,Karan Singh,Male,CSE,9.5,0,Yes,5,"Python,React,Node.js,AWS,SQL",Google,18.0,June,2024
+6,Anjali Rao,Female,IT,8.0,0,Yes,3,"Java,JavaScript,HTML,CSS",Capgemini,5.5,August,2024
+7,Vikram Nair,Male,MECH,6.8,2,No,1,"AutoCAD,SolidWorks",,,,
+8,Divya Krishnan,Female,CSE,8.9,0,Yes,4,"Python,Django,PostgreSQL,Docker",Amazon,12.0,June,2024
+9,Arjun Reddy,Male,CSE,7.8,1,No,2,"C++,Java,SQL",HCL,4.5,September,2024
+10,Meena Iyer,Female,IT,8.5,0,Yes,3,"Python,Power BI,SQL,Excel",Deloitte,7.0,July,2024
+11,Suresh Kumar,Male,EEE,7.2,1,No,1,"MATLAB,PLC,AutoCAD",,,,
+12,Lakshmi Nair,Female,CSE,9.2,0,Yes,5,"Java,Microservices,Kubernetes,React",Microsoft,16.5,June,2024
+13,Ravi Shankar,Male,IT,7.0,2,No,1,"PHP,MySQL,HTML",,,,
+14,Pooja Desai,Female,CSE,8.4,0,Yes,3,"Python,Flask,MongoDB,REST API",Cognizant,6.0,August,2024
+15,Nikhil Joshi,Male,CSE,9.0,0,Yes,4,"Data Science,Python,ML,Power BI",IBM,10.5,July,2024
+16,Kavitha Reddy,Female,IT,7.6,1,No,2,"Java,SQL,Selenium",TCS,5.0,September,2024
+17,Manoj Tiwari,Male,MECH,7.1,1,No,2,"CAD,FEM,Python",,,,
+18,Deepika Menon,Female,CSE,8.8,0,Yes,4,"React,TypeScript,Node.js,GraphQL",Flipkart,9.0,July,2024
+19,Siddharth Rao,Male,CSE,7.4,1,No,2,"C,C++,Embedded C",Bosch,5.5,September,2024
+20,Ananya Gupta,Female,IT,8.3,0,Yes,3,"Python,Data Analytics,Tableau,SQL",EY,7.5,August,2024
+21,Prakash Nair,Male,ECE,7.9,0,Yes,2,"VLSI,Verilog,Python",Texas Instruments,8.0,July,2024
+22,Shruti Sharma,Female,CSE,8.6,0,Yes,3,"Android,Kotlin,Firebase,REST API",Swiggy,7.8,August,2024
+23,Aditya Verma,Male,CSE,9.3,0,Yes,5,"AI,ML,Deep Learning,Python,TensorFlow",Adobe,15.0,June,2024
+24,Bhavna Patel,Female,IT,7.3,1,No,1,"HTML,CSS,JavaScript,Bootstrap",,,,
+25,Chetan Mishra,Male,CSE,8.1,0,Yes,3,"Java,Spring,Hibernate,MySQL",Mindtree,6.2,August,2024
+26,Rekha Jain,Female,ECE,6.9,2,No,1,"C,MATLAB,Electronics",,,,
+27,Ganesh Pillai,Male,IT,8.4,0,Yes,3,"Python,AWS,Cloud,Docker",Accenture,8.0,July,2024
+28,Harini Suresh,Female,CSE,9.0,0,Yes,4,"Full Stack,React,Node.js,SQL",Zomato,9.5,July,2024
+29,Ishaan Saxena,Male,CSE,7.6,1,No,2,"C++,Python,OpenCV",Infosys,5.0,September,2024
+30,Jyoti Kumari,Female,IT,8.2,0,Yes,2,"Python,Power BI,Excel,SQL",KPMG,6.8,August,2024
+31,Kartik Mehta,Male,CSE,9.4,0,Yes,5,"System Design,Java,Kafka,Redis",Uber,17.0,June,2024
+32,Lavanya Nair,Female,CSE,8.0,0,Yes,3,"Machine Learning,Python,NLP",Oracle,8.5,August,2024
+33,Mohan Yadav,Male,MECH,6.5,3,No,0,,,,,
+34,Nisha Agarwal,Female,CSE,8.7,0,Yes,3,"React,Vue.js,JavaScript,Node.js",Paytm,8.0,July,2024
+35,Om Prakash,Male,EEE,7.0,1,No,1,"MATLAB,Python,Embedded",,,,
+36,Pallavi Singh,Female,IT,7.8,0,Yes,2,"Testing,Selenium,Java,SQL",Wipro,5.2,September,2024
+37,Qasim Ali,Male,CSE,8.3,0,Yes,3,"Python,Django,React,PostgreSQL",Razorpay,9.0,July,2024
+38,Ritu Sharma,Female,CSE,7.5,1,No,2,"Java,HTML,CSS,SQL",,,,
+39,Sameer Joshi,Male,IT,8.9,0,Yes,4,"DevOps,CI/CD,Jenkins,Docker,Kubernetes",Infosys,10.0,July,2024
+40,Tanvi Menon,Female,CSE,9.1,0,Yes,4,"iOS,Swift,Objective-C,Xcode",Apple,20.0,June,2024
+41,Uday Kumar,Male,MECH,7.3,1,No,1,"SolidWorks,ANSYS",,,,
+42,Vandana Iyer,Female,CSE,8.5,0,Yes,3,"Python,Scikit-learn,Pandas,SQL",Mu Sigma,7.0,August,2024
+43,Wasim Khan,Male,IT,7.7,0,No,2,"Java,Spring Boot,REST API",Capgemini,5.5,September,2024
+44,Xenia Thomas,Female,ECE,8.0,0,Yes,2,"Embedded C,IoT,Python",Qualcomm,8.5,July,2024
+45,Yash Gupta,Male,CSE,9.2,0,Yes,5,"Backend,Go,Microservices,Kafka",PhonePe,14.0,June,2024
+46,Zara Ahmed,Female,IT,8.1,0,Yes,3,"Python,SQL,Tableau,Power BI",Accenture,7.2,August,2024
+47,Amruth Bhat,Male,CSE,7.2,1,No,2,"C++,Java,DSA",,,,
+48,Bindhu Raj,Female,CSE,8.8,0,Yes,4,"Cloud,AWS,Terraform,Python",Salesforce,12.5,July,2024
+49,Chirag Shah,Male,IT,7.4,1,No,1,"PHP,MySQL,jQuery",,,,
+50,Dhanya Pillai,Female,CSE,8.6,0,Yes,3,"Data Engineering,Spark,Python,SQL",Mu Sigma,9.0,August,2024
+51,Eshaan Tomar,Male,CSE,9.0,0,Yes,4,"React Native,JavaScript,Firebase",Ola,10.0,July,2024
+52,Falak Naz,Female,IT,7.9,0,Yes,2,"Python,ML,SQL",Wipro,6.0,September,2024
+53,Gopal Rao,Male,EEE,6.8,2,No,1,"MATLAB,PLC",,,,
+54,Hema Latha,Female,CSE,8.4,0,Yes,3,"Java,Hibernate,Spring MVC,MySQL",Cognizant,6.5,August,2024
+55,Imran Syed,Male,CSE,7.6,1,No,2,"Python,SQL,Basic ML",TCS,5.0,September,2024
+56,Jasmine Fernandez,Female,IT,8.3,0,Yes,3,"UI/UX,Figma,CSS,React",Infosys,7.0,August,2024
+57,Kunal Sharma,Male,CSE,9.5,0,Yes,5,"Competitive Programming,C++,DSA,System Design",Goldman Sachs,22.0,June,2024
+58,Latha Devi,Female,MECH,7.0,1,No,1,"AutoCAD,SolidWorks",,,,
+59,Manish Rana,Male,CSE,8.2,0,Yes,3,"Android,Java,Firebase,REST API",Byju's,7.0,August,2024
+60,Nalini Prasad,Female,CSE,8.9,0,Yes,4,"Data Science,Python,Visualization,SQL",IBM,11.0,July,2024
+61,Omkar Patil,Male,IT,7.5,1,No,2,"Java,SQL,HTML,CSS",HCL,4.5,October,2024
+62,Preeti Kumari,Female,CSE,8.0,0,Yes,2,"Python,Django,PostgreSQL",Mindtree,6.0,September,2024
+63,Rahul Dubey,Male,CSE,7.8,1,No,2,"C++,Java,OOP",Wipro,5.0,October,2024
+64,Sarika Nair,Female,IT,8.6,0,Yes,3,"Business Analytics,SQL,Power BI,Python",Deloitte,8.5,July,2024
+65,Tarun Bose,Male,ECE,7.7,0,Yes,2,"Signal Processing,Python,MATLAB",ISRO,6.0,August,2024
+66,Uma Rani,Female,CSE,7.3,1,No,1,"HTML,CSS,JavaScript",,,,
+67,Vinay Goel,Male,CSE,8.7,0,Yes,3,"DevOps,AWS,Linux,Python",Amazon,12.0,July,2024
+68,Wajeeha Khan,Female,IT,8.0,0,Yes,2,"Testing,QA,Selenium,Java",Accenture,6.0,August,2024
+69,Xavier Paul,Male,CSE,9.1,0,Yes,5,"Blockchain,Solidity,Python,Web3",Polygon,16.0,June,2024
+70,Yamini Reddy,Female,CSE,8.5,0,Yes,3,"Data Analytics,SQL,Python,Tableau",EY,8.0,July,2024
+71,Zaheer Abbas,Male,MECH,6.7,2,No,0,,,,,
+72,Aishwarya Rao,Female,CSE,9.0,0,Yes,4,"React,GraphQL,TypeScript,Node.js",Myntra,10.5,July,2024
+73,Bharat Thakur,Male,IT,7.6,1,No,2,"Java,SQL,Spring",TCS,5.0,September,2024
+74,Chaitanya Bhat,Male,CSE,8.3,0,Yes,3,"Python,AI,NLP,Transformers",Nvidia,13.0,July,2024
+75,Deepa Menon,Female,ECE,7.9,0,Yes,2,"VLSI,Python,MATLAB",MediaTek,7.5,August,2024
+76,Ekansh Mishra,Male,CSE,7.4,1,No,1,"C,Java,SQL",Infosys,4.5,October,2024
+77,Fathima Begum,Female,IT,8.1,0,Yes,3,"Python,Django,REST,MySQL",Capgemini,6.5,August,2024
+78,Goutham Rao,Male,CSE,8.8,0,Yes,4,"Java,Kafka,Spark,Microservices",Flipkart,11.0,July,2024
+79,Hina Qureshi,Female,CSE,8.2,0,Yes,2,"ML,Python,Scikit-learn",Oracle,8.0,August,2024
+80,Ishan Batra,Male,IT,7.7,0,No,2,"PHP,Laravel,MySQL",Persistent,4.5,October,2024
+81,Janaki Devi,Female,CSE,9.3,0,Yes,5,"Deep Learning,PyTorch,Python,Research",Samsung,15.5,June,2024
+82,Keshav Nair,Male,CSE,8.0,0,Yes,3,"JavaScript,React,Redux,Node.js",Swiggy,8.5,August,2024
+83,Lalitha Sharma,Female,MECH,7.2,1,No,1,"AutoCAD,ANSYS",,,,
+84,Madhu Sudan,Male,CSE,7.5,1,No,2,"C++,Python,Git",Wipro,5.0,October,2024
+85,Nandini Patel,Female,IT,8.5,0,Yes,3,"Data Analyst,Power BI,SQL,Excel",Infosys,7.5,August,2024
+86,Onkar Singh,Male,EEE,7.1,1,No,1,"MATLAB,Embedded C",,,,
+87,Pavithra Nair,Female,CSE,8.7,0,Yes,4,"iOS,Swift,ARKit,Xcode",Razorpay,11.0,July,2024
+88,Qasim Shaikh,Male,IT,7.8,0,Yes,2,"Python,SQL,Excel",HCL,5.5,September,2024
+89,Ramya Krishnan,Female,CSE,9.2,0,Yes,5,"AI/ML,Python,AWS,MLOps",Google,19.0,June,2024
+90,Santosh Rao,Male,CSE,8.4,0,Yes,3,"Java,Spring Cloud,Docker,K8s",Infosys,9.5,July,2024
+91,Tejal Mehta,Female,IT,7.6,1,No,2,"Java,Testing,SQL",TCS,5.0,September,2024
+92,Ujjwal Gupta,Male,CSE,8.9,0,Yes,4,"Python,FastAPI,Redis,PostgreSQL",Zepto,10.0,July,2024
+93,Vrinda Kapoor,Female,CSE,8.3,0,Yes,3,"Marketing Analytics,SQL,Python,Tableau",Unilever,7.0,August,2024
+94,Waseem Ansari,Male,CSE,7.7,0,Yes,2,"Python,Flask,SQL",Cognizant,6.0,September,2024
+95,Xanthe D'Souza,Female,IT,8.0,0,Yes,3,"UI/UX,Figma,CSS,Prototyping",Mindtree,6.5,August,2024
+96,Yogesh Tiwari,Male,MECH,6.9,2,No,0,,,,,
+97,Zeenat Husain,Female,CSE,8.6,0,Yes,3,"Python,Data Science,SQL,Visualization",Wipro,8.0,August,2024
+98,Akash Bajaj,Male,CSE,9.0,0,Yes,5,"Full Stack,React,Java,Spring Boot,SQL",PhonePe,13.0,June,2024
+99,Bharati Devi,Female,IT,7.4,1,No,1,"HTML,CSS,Basic JavaScript",,,,
+100,Chandan Kumar,Male,CSE,8.5,0,Yes,3,"Android,Kotlin,Jetpack",Ola,8.0,August,2024
